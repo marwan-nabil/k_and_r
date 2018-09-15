@@ -8,7 +8,7 @@ solved exercises, variations of code segments and programs,   inspired by the bo
 + fold_lines.c : folds long input lines into limited length lines.  
 + program_checker.c : checks a program for mismatched parens syntax errors.  
 
-##[Chapter 2](./chapter_2)
+## [Chapter 2](./chapter_2)
 + bit_play.c : bit manipulation, masking, replacement, counting functions.
 + const_experiments.c : experimenting with constants.  
 + garbage_explorer.c : looking at uninitialized local variables and pointers.
