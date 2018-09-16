@@ -8,11 +8,9 @@ solved exercises, variations of code segments and programs,   inspired by the bo
 + fold_lines.c : folds long input lines into limited length lines.  
 + program_checker.c : checks a program for mismatched parens syntax errors.  
 
-<<<<<<< HEAD
-##[Chapter 2](./chapter_2)
-=======
+
+
 ## [Chapter 2](./chapter_2)
->>>>>>> 9cc5bce8f035379080514ee534c913dd587c3fe9
 + bit_play.c : bit manipulation, masking, replacement, counting functions.
 + const_experiments.c : experimenting with constants.  
 + garbage_explorer.c : looking at uninitialized local variables and pointers.
@@ -23,8 +21,4 @@ solved exercises, variations of code segments and programs,   inspired by the bo
 ## [Chapter 5](./chapter_5)
 + comparisons.c : many comparison functions, used in sorting algorithms (pointed to).
 + quick_sort.c : generic quick sort algorithm with auxiliary functions like swap(), compare() is pointed to by quick_sort().  
-<<<<<<< HEAD
 + quick_sort_tests.c : unit tests for comparison and sorting funtions.
-=======
-+ quick_sort_tests.c : unit tests for comparison and sorting funtions.
->>>>>>> 9cc5bce8f035379080514ee534c913dd587c3fe9
